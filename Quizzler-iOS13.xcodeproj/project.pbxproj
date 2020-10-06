@@ -17,6 +17,7 @@
 		BB0964FA24F40F70004A3158 /* fausto.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = BB0964F924F40F70004A3158 /* fausto.mp3 */; };
 		BB0964FC24F41440004A3158 /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB0964FB24F41440004A3158 /* Question.swift */; };
 		BB09650324F440EC004A3158 /* QuizBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB09650224F440EC004A3158 /* QuizBrain.swift */; };
+		BBD803E2252D398E002164A3 /* layout.png in Resources */ = {isa = PBXBuildFile; fileRef = BBD803E1252D398E002164A3 /* layout.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		BB0964F924F40F70004A3158 /* fausto.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = fausto.mp3; sourceTree = "<group>"; };
 		BB0964FB24F41440004A3158 /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
 		BB09650224F440EC004A3158 /* QuizBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizBrain.swift; sourceTree = "<group>"; };
+		BBD803E1252D398E002164A3 /* layout.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = layout.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 			isa = PBXGroup;
 			children = (
 				AD7631B522F9851900C6E71B /* README.md */,
+				BBD803E1252D398E002164A3 /* layout.png */,
 				AD4BDE4822D878BA005BA4CC /* Quizzler-iOS13 */,
 				AD4BDE4722D878BA005BA4CC /* Products */,
 			);
@@ -166,6 +169,7 @@
 				BB0964FA24F40F70004A3158 /* fausto.mp3 in Resources */,
 				AD7631B622F9851900C6E71B /* README.md in Resources */,
 				AD4BDE5122D878BA005BA4CC /* Main.storyboard in Resources */,
+				BBD803E2252D398E002164A3 /* layout.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
